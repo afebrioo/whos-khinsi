@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.*
+
+# Build
+dist
+dist-ssr
+*.local
+
+# Local reference PDF (keep out of public repo)
+Profile (1).pdf
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
