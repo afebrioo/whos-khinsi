@@ -1,6 +1,6 @@
 # Khansa Fauzia Zahra — Legal Portfolio
 
-A personal legal portfolio website built for **Khansa Fauzia Zahra**, designed with a warm cream-and-brown editorial monograph aesthetic, soft organic curves, serif typography, and delicate calligraphic script accents.
+A personal legal portfolio website built for **Khansa Fauzia Zahra** 🤍, designed with a warm cream-and-brown editorial monograph aesthetic, soft organic curves, serif typography, and delicate calligraphic script accents.
 
 **Live Site:** [afebrioo.github.io/whos-khinsi](https://afebrioo.github.io/whos-khinsi/)
 
